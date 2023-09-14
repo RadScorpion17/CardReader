@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Lector</string>
+    <string name="action_settings">Config</string>
+    <string name="action_switch_view">Mas</string>
+    <string name="error_card_communication">Error de LEctura</string>
+    <string name="error_card_incompatible">Tarjeta incompatible</string>
+    <string name="error_card_no_eticket">No existe la tarjeta</string>
+    <string name="error_open_web_browser"></string>
+    <string name="info_read_card_successful">Trajeta leida!</string>
+    <string name="action_delete_history">Eliminar historial</string>
+    <string name="action_open_wiki" translatable="false">Wiki</string>
+    <string name="info_place_card">Coloca la tarjeta en el lector</string>
+    <string name="info_not_available_short">N/A</string>
+    <string name="field_date">Fecha</string>
+    <string name="field_time">Hora</string>
+    <string name="field_terminal_id">Terminal</string>
+    <string name="field_operator_id">Operador</string>
+    <string name="field_station_id">Estacion</string>
+    <string name="field_station_name">Nombre de la estacion</string>
+    <string name="field_permit_id">Permiso</string>
+    <string name="field_product_id">Producto</string>
+    <string name="field_route_id">Ruta</string>
+    <string name="field_sam_id" translatable="false">SAM-ID</string>
+    <string name="field_sam_sn" translatable="false">SAM-SN</string>
+    <string name="field_asn" translatable="false">ASN</string>
+    <string name="field_psn" translatable="false">PSN</string>
+    <string name="label_journey">Viaje</string>
+    <string name="label_activation_application">Activación de aplicación</string>
+    <string name="label_activation_ticket">Activación de la tarjeta</string>
+    <string name="hello_blank_fragment" translatable="false">///</string>
+    <string name="field_valid_from">Válido desde</string>
+    <string name="field_valid_thru">Valido Hasta</string>
+    <string name="label_application_details">App Details</string>
+    <string name="field_app_version" translatable="false">Version</string>
+    <string name="field_appdetail_organisation">Organización</string>
+    <string name="field_appdetail_id">Application ID</string>
+    <string name="action_switch_applog">Application Log</string>
+    <string name="action_switch_appdetails">Application Details</string>
+    <string name="error_missing_nfc_title">NFC missing</string>
+    <string name="error_missing_nfc_message">No existe el elctor</string>
+    <string name="action_ok" translatable="false">OK</string>
+    <string name="close_drawer">Cerrar</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="error_fetching_station">API FETCH ERROR</string>
+</resources>
